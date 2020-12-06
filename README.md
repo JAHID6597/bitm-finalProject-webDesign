@@ -1,4 +1,4 @@
-![](image/index.html.jpg)
+![](image/index.jpg)
 ![](image/shop_list.png)
 ![](image/shop_grid.png)
 ![](image/single_productView.png)
